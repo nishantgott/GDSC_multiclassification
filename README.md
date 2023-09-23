@@ -1,4 +1,4 @@
-# Multi-Class Classication of network protocols using Neural Network
+# Multi-Class Classication of network protocols using Neural Network and XGBoost
 
 
 ****The steps below are neatly presented in the notebook  
